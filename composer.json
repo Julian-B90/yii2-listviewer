@@ -1,0 +1,23 @@
+{
+    "name": "julian-b90/yii2-listviewer",
+    "description": "Display Items in a view",
+    "homepage": "http://www.yiiframework.com/",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","listview"],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Julian Böhnke",
+            "email": "tr@julianb.de"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "listview\\": ""
+        }
+    }
+}
