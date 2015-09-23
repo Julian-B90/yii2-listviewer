@@ -1,13 +1,13 @@
 <?php
 
-namespace listview;
+namespace julianb90\listview;
 
-use yii\widgets\BaseListView;
+use yii\widgets\ListView;
 
 /**
  * This is just an example.
  */
 class ListViewer extends ListView
 {
-    
+
 }
