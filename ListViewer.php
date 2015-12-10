@@ -1,6 +1,6 @@
 <?php
 
-namespace julianb90\listview;
+namespace julianb90\listview;   
 
 use yii\widgets\ListView;
 use yii\helpers\ArrayHelper;
